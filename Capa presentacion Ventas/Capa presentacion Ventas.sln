@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capa presentacion Ventas", "Capa presentacion Ventas.csproj", "{EE6F52F2-EBF9-403C-A6FB-5DE71AFF5E46}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Capaentidad", "..\Capaentidad\Capaentidad.csproj", "{FAEF9DB5-9E64-4D64-9A9A-D1915CED25C5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CapaNegocios", "..\CapaNegocios\CapaNegocios.csproj", "{404272FE-01D5-4824-8C29-CAA3742A40EC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CapaDeDatos", "..\CapaDeDatos\CapaDeDatos.csproj", "{04FCA8F5-7A8E-4611-882A-B48DE4644C12}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "wwroot", "wwroot", "{0BF05A64-6148-46DB-A4C6-9311CEB15542}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{D147C622-BBE7-4CC8-8661-F649E85F5381}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "webfonts", "webfonts", "{63D845E6-169A-48BF-BEF0-10CE12F414D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE6F52F2-EBF9-403C-A6FB-5DE71AFF5E46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE6F52F2-EBF9-403C-A6FB-5DE71AFF5E46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE6F52F2-EBF9-403C-A6FB-5DE71AFF5E46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE6F52F2-EBF9-403C-A6FB-5DE71AFF5E46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAEF9DB5-9E64-4D64-9A9A-D1915CED25C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAEF9DB5-9E64-4D64-9A9A-D1915CED25C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAEF9DB5-9E64-4D64-9A9A-D1915CED25C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAEF9DB5-9E64-4D64-9A9A-D1915CED25C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{404272FE-01D5-4824-8C29-CAA3742A40EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{404272FE-01D5-4824-8C29-CAA3742A40EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{404272FE-01D5-4824-8C29-CAA3742A40EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{404272FE-01D5-4824-8C29-CAA3742A40EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04FCA8F5-7A8E-4611-882A-B48DE4644C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04FCA8F5-7A8E-4611-882A-B48DE4644C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04FCA8F5-7A8E-4611-882A-B48DE4644C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04FCA8F5-7A8E-4611-882A-B48DE4644C12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D147C622-BBE7-4CC8-8661-F649E85F5381} = {0BF05A64-6148-46DB-A4C6-9311CEB15542}
+		{63D845E6-169A-48BF-BEF0-10CE12F414D2} = {0BF05A64-6148-46DB-A4C6-9311CEB15542}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54BF7EE7-676C-455B-8493-5197B361741F}
+	EndGlobalSection
+EndGlobal
